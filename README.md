@@ -1,1 +1,2 @@
 # Exploratory-data-analysis-EDA-
+This project analyzes the Titanic dataset to uncover patterns related to passenger survival. Using data cleaning, exploratory data analysis (EDA), and visualizations, we found that gender, passenger class, and age significantly influenced survival chances. Females and first-class passengers had the highest survival rates, highlighting the impact of social and economic factors during the tragedy.
